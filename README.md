@@ -16,8 +16,10 @@ node中使用了async await，因此,_node版本需在v7.0以上_
  
 #模块说明    
 
-[superagent](http://visionmedia.github.io/superagent/)客户端请求代理模块
-[cheerio](https://www.npmjs.com/package/cheerio)为服务器特别定制的，快速、灵活、实施的jQuery核心实现.
+[superagent](http://visionmedia.github.io/superagent/)客户端请求代理模块.     
+
+[cheerio](https://www.npmjs.com/package/cheerio)为服务器特别定制的，快速、灵活、实施的jQuery核心实现.    
+
 使用es6的*async*异步获取数据
  
  
